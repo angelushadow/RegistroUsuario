@@ -1,6 +1,5 @@
 package co.user.api.services.implementation;
 
-import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.Optional;
 import java.util.regex.Matcher;
@@ -64,6 +63,9 @@ public class UserServiceImpl implements UserService {
 
 	@Override
 	public UserDto update(UserDto dto) throws EntityNotFoundException {
+		
+		validEmail(dto.getEmail());
+		validPassword(dto.getPassword());
 
 		Optional<UserEntity> value = repository.findById(dto.getId());
 
