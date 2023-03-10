@@ -42,14 +42,14 @@ API RESTful de creación, actualización, eliminación y consulta de usuarios.
 
 	*	Realizar el clone del repositorio y ejecutar el comando mvn install para la descarga de las dependencias
 
-		```
+		```sh
 		mvn clean install -DSkipTest
 		```
 			
 	
 	*	Ejecutar proyecto 
 	
-		```
+		```sh
 		mvnw spring-boot:run
 		```	
 			
@@ -133,6 +133,6 @@ API RESTful de creación, actualización, eliminación y consulta de usuarios.
 			<!-- CONTACT -->
 ## Contact
 
-John Ocampo - [@Linkein](https://www.linkedin.com/in/john-bayron-ocampo-fonnegra/) - angelushadow@gmail.com
+John Ocampo - [@Linkedin](https://www.linkedin.com/in/john-bayron-ocampo-fonnegra/) - angelushadow@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
