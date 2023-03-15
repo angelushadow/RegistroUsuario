@@ -15,9 +15,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import co.user.api.dto.UserDto;
 import co.user.api.services.UserService;
+import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
+@Api(tags = "Usuario")
 public class UserController {
 
 	@Autowired
