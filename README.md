@@ -1,10 +1,12 @@
 
 
-# RegistroUsuario
+# Registro Usuario
 
 Spring Boot - Spring Security - API de creación de usuario generando Token JWT persistiendo en base de datos H2 y utilizando autenticación Token Bearer en los metodos de actualización, eliminación y consulta de usuario. 
 
 ## Description
+
+![Diagrama de la API](https://github.com/angelushadow/RegistroUsuario/blob/main/Diagrama.png)
 
 El proyecto esta desarrollado cumpliendo los siguientes requerimientos:
 	
@@ -42,7 +44,7 @@ Response:
 
 1.	Realizar el clone del repositorio y ejecutar el comando mvn install para la descarga de las dependencias
 	```sh
-	mvn clean install -DSkipTest
+	mvn clean install -DSkipTests
 	```
 			
 	
@@ -57,7 +59,7 @@ Response:
 ### Testing
 
 En tu navegador url http://localhost:8080/api/v2/api-docs para verificar documentacion Swagger.
-importar esta documentacion con la herramienta postman para generar los endpoints, ejemplo https://www.baeldung.com/swagger-apis-in-postman
+importar esta documentacion con la herramienta Postman para generar los endpoints, ver https://www.baeldung.com/swagger-apis-in-postman para mas información.
 
 
 
@@ -130,6 +132,14 @@ Response:
 
 	Response:
 		HttpStatus.NO_CONTENT
+		
+		
+		
+		
+	
+		
+		
+
 			
 			
 			
