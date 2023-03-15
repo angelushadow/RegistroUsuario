@@ -135,16 +135,10 @@ Response:
 		
 		
 		
-		
-	
-		
-		
-
-			
 			
 			
 ## Contact
 
 John Ocampo - [@Linkedin](https://www.linkedin.com/in/john-bayron-ocampo-fonnegra/) - angelushadow@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="# Registro Usuario">back to top</a>)</p>
