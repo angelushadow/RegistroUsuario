@@ -139,6 +139,6 @@ Response:
 			
 ## Contact
 
-John Ocampo - [@Linkedin](https://www.linkedin.com/in/john-bayron-ocampo-fonnegra/) - angelushadow@gmail.com
+John Ocampo - [@Linkedin](https://www.linkedin.com/in/john-bayron-ocampo-fonnegra/) - bayron.ocampo.8@gmail.com
 
 <p align="right">(<a href="# Registro Usuario">back to top</a>)</p>
